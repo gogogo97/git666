@@ -1,1 +1,2 @@
 Hello gitHello Git
+\n not a dime

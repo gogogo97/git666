@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This  is not Me
-=======
 This is not Me
->>>>>>> feature2
